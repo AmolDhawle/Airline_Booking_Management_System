@@ -2,11 +2,11 @@
 
 Welcome to the Airline Booking Management System! This project is a comprehensive system designed to facilitate the booking and management of flights for users. It comprises multiple microservices built on a modern tech stack, offering functionalities such as flight booking, authentication, reminders, and more.
 
-- [Flights and Search Service Repository]([link-to-flights-and-search-repo](#https://github.com/AmolDhawle/FlightsAndSearch))
-- [Booking Service Repository]([link-to-booking-repo](#https://github.com/AmolDhawle/AirTicketBookingService))
-- [Auth Service Repository]([link-to-auth-repo](#https://github.com/AmolDhawle/Auth_Service))
-- [Reminder Service Repository]([link-to-reminder-repo](#https://github.com/AmolDhawle/ReminderService))
-- [API Gateway Repository]([link-to-api-gateway-repo](#https://github.com/AmolDhawle/API_Gateway))
+- [Flights and Search Service Repository]([link-to-flights-and-search-repo](https://github.com/AmolDhawle/FlightsAndSearch))
+- [Booking Service Repository]([link-to-booking-repo](https://github.com/AmolDhawle/AirTicketBookingService))
+- [Auth Service Repository]([link-to-auth-repo](https://github.com/AmolDhawle/Auth_Service))
+- [Reminder Service Repository]([link-to-reminder-repo](https://github.com/AmolDhawle/ReminderService))
+- [API Gateway Repository]([link-to-api-gateway-repo](https://github.com/AmolDhawle/API_Gateway))
 
 
 ## Overview
